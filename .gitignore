@@ -1,0 +1,26 @@
+# Fichiers de secrets et de base de données à ignorer
+
+# Fichiers de Configuration et Secrets (Ne jamais envoyer !)
+config.py
+credentials.json
+.env
+
+# Base de données locale
+airbnb_history.db
+
+# Fichiers de données (Ignorer tous les .json SAUF events.json)
+*.json
+!events.json
+
+# Logs et Fichiers Générés (PDFs, Images)
+bot_airbnb.log
+output/
+
+# Cache Python
+__pycache__/
+
+# Binaires et Exécutables
+chromedriver
+
+# Dossier d'environnement Conda
+proptech/
