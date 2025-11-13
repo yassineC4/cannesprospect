@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Festival du Film de Cannes",
+        "start_date": "2026-05-13",
+        "end_date": "2026-05-24",
+        "city": "Cannes",
+        "impact": "maximal"
+    },
+    {
+        "name": "MIPIM (Immobilier)",
+        "start_date": "2026-03-10",
+        "end_date": "2026-03-13",
+        "city": "Cannes",
+        "impact": "fort"
+    },
+    {
+        "name": "Cannes Lions (Publicité)",
+        "start_date": "2026-06-16",
+        "end_date": "2026-06-20",
+        "city": "Cannes",
+        "impact": "fort"
+    },
+    {
+        "name": "MIPCOM (Audiovisuel)",
+        "start_date": "2026-10-18",
+        "end_date": "2026-10-21",
+        "city": "Cannes",
+        "impact": "moyen"
+    }
+]

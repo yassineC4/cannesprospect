@@ -1,0 +1,55 @@
+altair==5.5.0
+attrs==25.4.0
+beautifulsoup4==4.14.2
+blinker==1.9.0
+Brotli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d7pp3g74_g/croot/brotli-split_1736182638718/work
+cachetools==6.2.1
+certifi==2025.10.5
+charset-normalizer==3.4.4
+click==8.3.0
+contourpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_6236u4rf19/croot/contourpy_1732540057596/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_706ove9ndu/croot/fonttools_1737039799828/work
+gitdb==4.0.12
+GitPython==3.1.45
+google-auth==2.41.1
+google-auth-oauthlib==1.2.3
+gspread==6.2.1
+idna==3.11
+Jinja2==3.1.6
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+kiwisolver @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_92lgswl3y6/croot/kiwisolver_1737040154211/work
+MarkupSafe==3.0.3
+matplotlib==3.10.0
+narwhals==2.10.2
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_5fmmnmaopm/croot/numpy_and_numpy_base_1725470312793/work/dist/numpy-2.0.1-cp310-cp310-macosx_10_15_x86_64.whl#sha256=1abc5cd4905baeff6488cfb6d6c604380179b691062e03d7bb93afedc40e3ca4
+oauthlib==3.3.1
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_95hd3yozva/croot/packaging_1753775365688/work
+pandas==2.3.3
+pillow @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_59qe1phg3h/croot/pillow_1752524533185/work
+protobuf==6.33.0
+pyarrow==21.0.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pydeck==0.9.1
+pyparsing @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_32bhy1idl3/croot/pyparsing_1731445537860/work
+python-dateutil @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_efk5_uakg8/croot/python-dateutil_1716495742183/work
+pytz==2025.2
+referencing==0.37.0
+reportlab==4.4.4
+requests==2.32.5
+requests-oauthlib==2.0.0
+rpds-py==0.28.0
+rsa==4.9.1
+six @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2e3n1z57yz/croot/six_1744271514562/work
+smmap==5.0.2
+soupsieve==2.8
+streamlit==1.51.0
+tenacity==9.1.2
+toml==0.10.2
+tornado @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_53i9d3wys5/croot/tornado_1748956943199/work
+typing_extensions==4.15.0
+tzdata==2025.2
+unicodedata2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c9zunc70re/croot/unicodedata2_1736544422992/work
+urllib3==2.5.0
